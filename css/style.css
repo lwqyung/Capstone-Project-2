@@ -1,0 +1,26 @@
+body {
+    background-color: #FFF6F5;
+    color: #2F4D85;
+    font-family: 'PT Serif', serif;
+}
+
+.sectionStyle {
+    background-color: #D9E5FC;
+}
+
+.hero {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.heroText {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mailLink {
+    color: #AA6256;
+}
